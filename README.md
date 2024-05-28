@@ -10,3 +10,5 @@ pandas, seaborn, warnings, sklearn, KNNImputer, pygwalker
 PyGWalker:
 
 PyGWalker can simplify your Jupyter Notebook data analysis and data visualization workflow, by turning your Pandas/Polars/Modin dataframes into a no-code User Interface for visual exploration.
+
+Pygwalker Interface and Visualizations are shown above as png file.
